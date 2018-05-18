@@ -1,0 +1,9 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  background: #0d0084;
+background: -moz-linear-gradient(top, #0d0084 54%, #ed00b5 88%, #ed00b5 88%, #ffa73d 98%);
+background: -webkit-linear-gradient(top, #0d0084 54%,#ed00b5 88%,#ed00b5 88%,#ffa73d 98%);
+background: linear-gradient(to bottom, #0d0084 54%,#ed00b5 88%,#ed00b5 88%,#ffa73d 98%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0084', endColorstr='#ffa73d',GradientType=0 );
+}
